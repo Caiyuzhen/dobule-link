@@ -3,6 +3,9 @@ title: Life of Pix
 ---
 
 ## 网站链接：https://www.lifeofpix.com/
+:PROPERTIES:
+:custom_id: 5f7efb33-162d-49e1-b98f-4abb69f9b7f9
+:END:
 
 使用教学
 
